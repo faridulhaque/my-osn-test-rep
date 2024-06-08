@@ -70,5 +70,11 @@
         "star_score": 4,
         "fork_score": 1,
         "merge_score": 5
+    },
+    {
+        "github": "faridulhaque/my-osn-test-rep",
+        "star_score": 10,
+        "fork_score": 9,
+        "merge_score": 8
     }
 ]
