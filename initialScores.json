@@ -1,80 +1,23 @@
 [
     {
-        "github": "osnHQ/ethosai",
+        "github": "faridulhaque/jobtask-aulacube",
         "star_score": 1,
-        "fork_score": 1,
-        "merge_score": 4
-    },
-    {
-        "github": "osnHQ/cckb",
-        "star_score": 1,
-        "fork_score": 1,
-        "merge_score": 5
-    },
-    {
-        "github": "osnHQ/project3",
-        "star_score": 2,
         "fork_score": 2,
         "merge_score": 3
     },
     {
-        "github": "osnHQ/project4",
-        "star_score": 3,
-        "fork_score": 2,
-        "merge_score": 2
-    },
-    {
-        "github": "osnHQ/project5",
+        "github": "faridulhaque/Practice-MongoDB",
         "star_score": 4,
-        "fork_score": 3,
-        "merge_score": 1
+        "fork_score": 5,
+        "merge_score": 6
     },
     {
-        "github": "osnHQ/project6",
-        "star_score": 5,
-        "fork_score": 4,
-        "merge_score": 1
-    },
-    {
-        "github": "osnHQ/project7",
-        "star_score": 1,
-        "fork_score": 3,
-        "merge_score": 2
-    },
-    {
-        "github": "osnHQ/project8",
-        "star_score": 2,
-        "fork_score": 1,
-        "merge_score": 3
-    },
-    {
-        "github": "osnHQ/project9",
-        "star_score": 3,
-        "fork_score": 2,
-        "merge_score": 4
-    },
-    {
-        "github": "osnHQ/project10",
-        "star_score": 4,
-        "fork_score": 1,
-        "merge_score": 5
-    },
-    {
-        "github": "faridulhaque/assignment-othm",
-        "star_score": 4,
-        "fork_score": 1,
-        "merge_score": 5
-    },
-    {
-        "github": "faridulhaque/assignment-9-client",
-        "star_score": 4,
-        "fork_score": 1,
-        "merge_score": 5
-    },
-    {
-        "github": "faridulhaque/my-osn-test-rep",
-        "star_score": 10,
-        "fork_score": 9,
-        "merge_score": 8
+        "github": "faridulhaque/jobtask-growMeOrganic",
+        "star_score": 7,
+        "fork_score": 8,
+        "merge_score": 9
     }
+   
+  
+ 
 ]
