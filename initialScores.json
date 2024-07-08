@@ -3,21 +3,24 @@
         "github": "faridulhaque/jobtask-aulacube",
         "star_score": 1,
         "fork_score": 2,
-        "merge_score": 3
+        "merge_score": 3,
+        "max_merge_score": 0,
+        "custom_merge_score_enabled": true
     },
     {
         "github": "faridulhaque/Practice-MongoDB",
         "star_score": 4,
         "fork_score": 5,
-        "merge_score": 6
+        "merge_score": 6,
+        "max_merge_score": 0,
+        "custom_merge_score_enabled": false
     },
     {
         "github": "faridulhaque/jobtask-growMeOrganic",
         "star_score": 7,
         "fork_score": 8,
-        "merge_score": 9
+        "merge_score": 9,
+        "max_merge_score": 0,
+        "custom_merge_score_enabled": true
     }
-   
-  
- 
 ]
