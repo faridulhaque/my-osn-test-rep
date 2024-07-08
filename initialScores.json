@@ -4,7 +4,7 @@
         "star_score": 1,
         "fork_score": 2,
         "merge_score": 3,
-        "max_merge_score": 0,
+        "max_merge_score": 10,
         "custom_merge_score_enabled": true
     },
     {
@@ -12,7 +12,7 @@
         "star_score": 4,
         "fork_score": 5,
         "merge_score": 6,
-        "max_merge_score": 0,
+        "max_merge_score": 20,
         "custom_merge_score_enabled": false
     },
     {
@@ -20,7 +20,7 @@
         "star_score": 7,
         "fork_score": 8,
         "merge_score": 9,
-        "max_merge_score": 0,
+        "max_merge_score": 20,
         "custom_merge_score_enabled": true
     }
 ]
