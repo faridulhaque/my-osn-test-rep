@@ -1,27 +1,21 @@
 [
   {
+    "name": "Collins Ochieng",
+    "githubId": "Collins331",
+    "discordId": "lincoln.collins",
+    "avatar": "/avatars/Collins331.jpeg"
+  },
+  {
     "name": "Sujith PS",
     "githubId": "sujithps",
     "discordId": "trigondev",
     "avatar": "/avatars/sujithps.png"
   },
   {
-    "name": "Faridul Haque",
-    "githubId": "faridulhaque",
-    "discordId": "farid",
-    "avatar": "/avatars/sujithp7s.png"
-  },
-  {
     "name": "Lulzx",
     "githubId": "lulzx",
-    "discordId": "_lulzxd",
+    "discordId": "_lulzx",
     "avatar": "/avatars/lulzx.png"
-  },
-  {
-    "name": "John Doe",
-    "githubId": "faridmurshed",
-    "discordId": "_lulzxd",
-    "avatar": "/avatarsd/lulzx.png"
   },
   {
     "name": "Krunal Patel",
@@ -59,7 +53,7 @@
     "discordId": "circuitstage",
     "avatar": "/avatars/hariseldon84.jpg"
   },
-  {
+    {
     "name": "Karan Goraniya",
     "githubId": "karangoraniya",
     "discordId": "karangoraniya",
@@ -78,15 +72,27 @@
     "avatar": "/avatars/omaerkhan.png"
   },
   {
-    "name": "Omaer Khan 5",
-    "githubId": "omaerkhan5",
-    "discordId": "_o.k._ff",
-    "avatar": "/avatars/omaerkhand.png"
+    "name": "Faridul Haque",
+    "githubId": "faridulhaque",
+    "discordId": "faridulhaquemurshed",
+    "avatar": "/avatars/faridulhaque.jpeg"
   },
   {
-    "name": "Omaer Khan 5",
-    "githubId": "omaerkhaddn5",
-    "discordId": "_odd.k._ff",
-    "avatar": "/avatars/domaerkhand.png"
+    "name": "Shubham",
+    "githubId": "shubham138g",
+    "discordId": "shubhamgupta0082",
+    "avatar": "/avatars/shubham138g.jpeg"
+  },
+  {
+    "name": "Rizwan",
+    "githubId": "rizwanmoulvi",
+    "discordId": "rizwan.eth",
+    "avatar": "/avatars/rizwan.jpg"
+  },
+  {
+    "name":"Keerthi",
+    "githubId":"dongala-keerthi",
+    "discordId":"keerthidongala_53254",
+    "avatar":"/avatars/dongala-keerthi.png"
   }
 ]
