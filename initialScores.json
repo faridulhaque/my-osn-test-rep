@@ -1,34 +1,10 @@
 [
     {
-        "github": "faridulhaque/jobtask-aulacube",
+        "github": "osnHQ/community-members",
         "star_score": 1,
-        "fork_score": 2,
-        "merge_score": 3,
-        "max_merge_score": 10,
-        "custom_merge_score_enabled": true
-    },
-    {
-        "github": "faridulhaque/Practice-MongoDB",
-        "star_score": 4,
-        "fork_score": 5,
-        "merge_score": 6,
-        "max_merge_score": 20,
-        "custom_merge_score_enabled": false
-    },
-    {
-        "github": "faridulhaque/jobtask-growMeOrganic",
-        "star_score": 7,
-        "fork_score": 8,
-        "merge_score": 9,
-        "max_merge_score": 20,
-        "custom_merge_score_enabled": true
-    },
-    {
-        "github": "faridulhaque/HeroMedia-Client",
-        "star_score": 3,
-        "fork_score": 5,
-        "merge_score": 6,
-        "max_merge_score": 20,
+        "fork_score": 1,
+        "merge_score": 1,
+        "max_merge_score": 4,
         "custom_merge_score_enabled": true
     }
 ]
