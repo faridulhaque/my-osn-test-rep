@@ -6,5 +6,13 @@
         "merge_score": 1,
         "max_merge_score": 4,
         "custom_merge_score_enabled": true
+    },
+    {
+        "github": "faridulhaque/jobtask-growMeOrganic",
+        "star_score": 3,
+        "fork_score": 5,
+        "merge_score": 9,
+        "max_merge_score": 10,
+        "custom_merge_score_enabled": true
     }
 ]
